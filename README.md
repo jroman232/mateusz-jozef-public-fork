@@ -11,3 +11,4 @@ main:              ■ —— ■ —— ■
 gałąź poprawka:             ■ —— ■  
 ```
 Hasło dnia: ŚLIWKA
+efe
